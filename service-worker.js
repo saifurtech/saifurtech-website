@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.0/workbox-sw.js");
 
 importScripts(
-  "/saifurtech-website/precache-manifest.2ebdc4670b82258eaade46e3ffe5192c.js"
+  "/saifurtech-website/precache-manifest.5a6e2277d338d6926694d84b3a766c62.js"
 );
 
 self.addEventListener('message', (event) => {

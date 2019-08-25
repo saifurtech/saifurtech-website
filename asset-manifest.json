@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/saifurtech-website/static/css/main.584f321a.chunk.css",
+    "main.css": "/saifurtech-website/static/css/main.83bd8ac9.chunk.css",
     "main.js": "/saifurtech-website/static/js/main.7172c68d.chunk.js",
     "main.js.map": "/saifurtech-website/static/js/main.7172c68d.chunk.js.map",
     "runtime~main.js": "/saifurtech-website/static/js/runtime~main.8c20c0e0.js",
@@ -8,8 +8,8 @@
     "static/js/2.65aa1cca.chunk.js": "/saifurtech-website/static/js/2.65aa1cca.chunk.js",
     "static/js/2.65aa1cca.chunk.js.map": "/saifurtech-website/static/js/2.65aa1cca.chunk.js.map",
     "index.html": "/saifurtech-website/index.html",
-    "precache-manifest.2ebdc4670b82258eaade46e3ffe5192c.js": "/saifurtech-website/precache-manifest.2ebdc4670b82258eaade46e3ffe5192c.js",
+    "precache-manifest.5a6e2277d338d6926694d84b3a766c62.js": "/saifurtech-website/precache-manifest.5a6e2277d338d6926694d84b3a766c62.js",
     "service-worker.js": "/saifurtech-website/service-worker.js",
-    "static/css/main.584f321a.chunk.css.map": "/saifurtech-website/static/css/main.584f321a.chunk.css.map"
+    "static/css/main.83bd8ac9.chunk.css.map": "/saifurtech-website/static/css/main.83bd8ac9.chunk.css.map"
   }
 }

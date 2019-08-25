@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "512b0d16dd618ca5ae24e5093c0483b2",
+    "revision": "14df99fbfd5c4a6e82ef3698e3b78458",
     "url": "/saifurtech-website/index.html"
   },
   {
-    "revision": "757574b6155bf3d85f13",
-    "url": "/saifurtech-website/static/css/main.584f321a.chunk.css"
+    "revision": "85e639e521e257a5d84e",
+    "url": "/saifurtech-website/static/css/main.83bd8ac9.chunk.css"
   },
   {
     "revision": "681b51057d74cfa8975d",
     "url": "/saifurtech-website/static/js/2.65aa1cca.chunk.js"
   },
   {
-    "revision": "757574b6155bf3d85f13",
+    "revision": "85e639e521e257a5d84e",
     "url": "/saifurtech-website/static/js/main.7172c68d.chunk.js"
   },
   {
