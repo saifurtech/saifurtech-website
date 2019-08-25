@@ -2,7 +2,7 @@
   "name": "saifurtech",
   "version": "0.1.1",
   "private": true,
-  "homepage": "http://saifurtech.us",
+  "homepage": "https://saifurtech.github.io/saifurtech-website",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.6",
